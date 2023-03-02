@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo qgsocksify
+exit 0
